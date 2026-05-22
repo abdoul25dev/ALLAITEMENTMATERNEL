@@ -1,0 +1,121 @@
+/* Styles globaux épurés et modernes */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+    background-color: #F8F9FB; /* Fond très léger gris-bleuté */
+    color: #2D3748;
+}
+
+/* Animations d'entrée */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+div[data-testid="stBlock"] {
+    animation: fadeIn 0.6s ease-out;
+}
+
+/* Hero Section */
+.hero-container {
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+    margin-bottom: 2rem;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(30,58,138,0.9) 0%, rgba(59,130,246,0.7) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+.hero-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.hero-subtitle {
+    font-size: 1.2rem;
+    font-weight: 300;
+    opacity: 0.9;
+}
+
+/* Cartes (Containers) */
+.stCard {
+    background: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.03);
+    border: 1px solid #E2E8F0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stCard:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.05);
+}
+
+/* Bouton Prédire */
+.stButton > button {
+    width: 100%;
+    background: linear-gradient(135deg, #1D4ED8 0%, #3B82F6 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.5rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    box-shadow: 0 8px 20px rgba(59, 130, 246, 0.4);
+    transform: scale(1.02);
+}
+
+/* Résultat Jauge */
+.result-box {
+    text-align: center;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-top: 1rem;
+    animation: fadeIn 0.8s ease-out;
+}
+
+.result-high {
+    background-color: #DEF7EC;
+    border: 2px solid #31C48D;
+    color: #03543F;
+}
+
+.result-low {
+    background-color: #FDE8E8;
+    border: 2px solid #F98080;
+    color: #9B1C1C;
+}
+
+.result-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.result-prob {
+    font-size: 3rem;
+    font-weight: 800;
+}

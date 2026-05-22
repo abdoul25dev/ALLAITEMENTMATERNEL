@@ -1,0 +1,26 @@
+variable,VIF
+C(maternal_education)[T.Secondaire],3.0252505985455995
+C(anc_group)[T.4+ visites],3.025178447522112
+C(maternal_age_group)[T.25-29],2.9558438034937757
+C(maternal_age_group)[T.30-34],2.7603575507029077
+C(maternal_age_group)[T.20-24],2.5489787462926605
+C(maternal_age_group)[T.35-49],2.502240074399901
+C(anc_group)[T.1-3 visites],2.3583787115600376
+C(wealth_group)[T.Pauvre],2.1732153950817823
+C(wealth_group)[T.Riche],2.114364625447062
+C(maternal_education)[T.Primaire],1.986683940805747
+C(birth_interval_group)[T.Premier-né],1.9350987693336124
+C(residence)[T.Urbain],1.8852737071675858
+C(delivery_place_group)[T.Établissement de santé],1.7827613863129137
+C(maternal_education)[T.Supérieur],1.7734169630628334
+C(partner_education_group)[T.Secondaire+],1.6959329927763547
+C(partner_education_group)[T.Pas en union],1.613183065907233
+C(birth_size_group)[T.Moyen],1.3320548048947538
+C(birth_size_group)[T.Petit],1.330633342027018
+C(birth_interval_group)[T.48+ mois],1.2462683949556095
+C(birth_interval_group)[T.<24 mois],1.2125086409943533
+C(media_exposure_any)[T.Oui],1.1937462548061908
+C(partner_education_group)[T.NSP],1.0941362464994648
+C(birth_size_group)[T.NSP],1.094089296314211
+child_age_months,1.0517781997132707
+C(child_sex)[T.Masculin],1.0348587157314

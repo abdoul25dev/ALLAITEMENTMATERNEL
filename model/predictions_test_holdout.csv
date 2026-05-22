@@ -1,0 +1,195 @@
+allaitement_exclusif,child_age_months,child_sex,maternal_age_group,maternal_education,wealth_group,residence,birth_interval_group,birth_size_group,anc_group,delivery_place_group,media_exposure_any,partner_education_group,maternal_working,region,household_head_sex,mobile_phone_own,community_poverty_high,community_low_education_high,sample_weight,sample_weight_norm,cluster_id,predicted_probability_ebf,predicted_class_ebf
+0,5,Masculin,20-24,Primaire,Pauvre,Rural,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord-Ouest,Femme,Oui,Élevée,Élevée,1.206393,1.154274615426935,224,0.18701368144518402,0
+0,5,Masculin,20-24,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Douala,Femme,Oui,Faible,Faible,2.423145,2.3184607031031352,99,0.33563084698660256,0
+0,5,Masculin,25-29,Secondaire,Riche,Urbain,48+ mois,Grand,4+ visites,Établissement de santé,Oui,Secondaire+,Oui,Douala,Homme,Oui,Faible,Élevée,1.32107,1.263997359237049,246,0.15657218054109753,0
+0,0,Masculin,30-34,Secondaire,Riche,Urbain,48+ mois,Grand,4+ visites,Établissement de santé,Non,NSP,Non,Littoral (hors Douala),Homme,Oui,Faible,Élevée,1.005946,0.9624872925242964,306,0.5665249135403047,1
+0,0,Féminin,25-29,Aucune,Pauvre,Rural,24-47 mois,Grand,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Non,Nord,Homme,Non,Élevée,Élevée,1.309411,1.2528420493660015,351,0.5513437052983614,1
+1,1,Féminin,25-29,Secondaire,Moyen,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Sud,Homme,Oui,Élevée,Faible,0.442987,0.4238491512004229,359,0.6077001621440753,1
+0,5,Masculin,15-19,Primaire,Pauvre,Rural,Premier-né,Grand,4+ visites,Établissement de santé,Non,Pas en union,Oui,Est,Femme,Non,Élevée,Élevée,0.329209,0.3149865689456801,86,0.2571699606469476,0
+0,1,Féminin,15-19,Secondaire,Moyen,Urbain,Premier-né,NSP,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Femme,Non,Élevée,Faible,1.884455,1.803043096581599,381,0.6268140872454058,1
+1,3,Féminin,20-24,Aucune,Pauvre,Rural,<24 mois,Moyen,1-3 visites,Établissement de santé,Non,Secondaire+,Oui,Nord,Homme,Non,Élevée,Élevée,1.152187,1.102410413791289,84,0.46831412715092746,1
+1,4,Masculin,20-24,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Oui,Aucune/Primaire,Non,Nord-Ouest,Homme,Oui,Élevée,Faible,0.675848,0.6466501300049514,29,0.28978327607080284,0
+0,4,Masculin,20-24,Secondaire,Pauvre,Rural,<24 mois,Petit,1-3 visites,Domicile,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.455293,0.4356235094878498,33,0.1830714069684682,0
+1,0,Masculin,20-24,Secondaire,Pauvre,Urbain,<24 mois,Petit,1-3 visites,Établissement de santé,Non,Secondaire+,Non,Centre (hors Yaoundé),Homme,Oui,Faible,Faible,0.741235,0.7092122919860976,385,0.465101607319119,1
+1,5,Féminin,35-49,Secondaire,Pauvre,Rural,48+ mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Non,Sud,Homme,Non,Élevée,Élevée,0.456472,0.4367515745309894,338,0.2866509750141043,0
+0,5,Féminin,35-49,Secondaire,Moyen,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Sud,Homme,Non,Élevée,Faible,0.442987,0.4238491512004229,359,0.36081342977451364,0
+1,3,Masculin,35-49,Supérieur,Moyen,Rural,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Ouest,Homme,Oui,Élevée,Faible,0.709001,0.6783708597549161,442,0.3513325168830935,0
+0,0,Féminin,30-34,Secondaire,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.662675,0.6340462277036126,248,0.4521999619585943,1
+1,0,Masculin,20-24,Primaire,Moyen,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Non,Centre (hors Yaoundé),Homme,Non,Faible,Élevée,0.829297,0.793469852485642,152,0.7092075866403652,1
+0,3,Féminin,25-29,Aucune,Pauvre,Rural,48+ mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Adamaoua,Homme,Non,Élevée,Élevée,1.34955,1.291246971135791,171,0.21885856376325288,0
+0,4,Masculin,25-29,Primaire,Moyen,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord-Ouest,Homme,Oui,Élevée,Faible,1.858717,1.7784170252666474,411,0.36705789988865023,0
+0,2,Féminin,20-24,Secondaire,Riche,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Douala,Homme,Oui,Faible,Faible,1.125334,1.076717512516116,283,0.3653268281225476,0
+1,2,Masculin,25-29,Secondaire,Riche,Urbain,<24 mois,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Yaoundé,Homme,Oui,Faible,Élevée,0.509683,0.487663761986887,127,0.6071749559555389,1
+1,0,Masculin,20-24,Primaire,Riche,Urbain,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Yaoundé,Homme,Oui,Faible,Élevée,1.279408,1.2241352338534328,89,0.8084318058409865,1
+0,0,Masculin,15-19,Primaire,Pauvre,Rural,Premier-né,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,0.942769,0.9020396545001804,87,0.5734424500369347,1
+0,1,Féminin,35-49,Aucune,Pauvre,Rural,48+ mois,Grand,0 visite,Domicile,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,1.445452,1.3830058292928542,134,0.33411789333321856,0
+0,4,Féminin,20-24,Primaire,Moyen,Rural,48+ mois,Moyen,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.8647,0.827343378119461,431,0.42559612495024673,1
+1,3,Féminin,20-24,Primaire,Pauvre,Rural,48+ mois,Petit,1-3 visites,Domicile,Non,Pas en union,Oui,Est,Femme,Non,Élevée,Élevée,1.032252,0.98765682520015,241,0.22516607481545375,0
+1,1,Masculin,35-49,Primaire,Pauvre,Urbain,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Non,Nord,Homme,Oui,Élevée,Élevée,0.670298,0.6413399001581108,182,0.6783843688943214,1
+1,1,Féminin,25-29,Primaire,Pauvre,Rural,Premier-né,Grand,0 visite,Domicile,Non,Aucune/Primaire,Non,Nord,Homme,Non,Élevée,Élevée,1.703991,1.6303754715220982,216,0.3619712612453499,0
+0,0,Masculin,30-34,Aucune,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Non,Extrême-Nord,Homme,Non,Élevée,Élevée,3.347476,3.2028589129337584,217,0.41797814745426654,1
+0,5,Féminin,30-34,Primaire,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,0.773617,0.7401953303465283,316,0.2187113960983311,0
+1,0,Masculin,30-34,Aucune,Pauvre,Rural,48+ mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,1.426684,1.3650486412269978,209,0.3858544351197889,0
+0,5,Féminin,20-24,Aucune,Pauvre,Rural,24-47 mois,NSP,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.567817,1.5000844374385554,137,0.23715305140500606,0
+1,5,Masculin,20-24,Secondaire,Riche,Urbain,Premier-né,Grand,4+ visites,Établissement de santé,Non,Pas en union,Non,Ouest,Femme,Oui,Faible,Faible,0.827937,0.7921686069736233,457,0.26009287742065207,0
+0,3,Masculin,15-19,Aucune,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Femme,Non,Élevée,Élevée,1.551025,1.4840178825578083,278,0.28187642180920564,0
+0,5,Féminin,25-29,Primaire,Riche,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Non,Yaoundé,Homme,Oui,Faible,Faible,1.259448,1.205037542368219,31,0.31258527296796795,0
+1,2,Féminin,30-34,Primaire,Pauvre,Rural,24-47 mois,Grand,0 visite,Domicile,Non,Pas en union,Oui,Centre (hors Yaoundé),Femme,Oui,Élevée,Faible,0.88435,0.8461444621717882,90,0.24991015846375603,0
+0,3,Féminin,25-29,Aucune,Pauvre,Rural,48+ mois,Petit,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,0.780921,0.7471837841846045,81,0.1343608464396959,0
+1,2,Masculin,35-49,Primaire,Riche,Rural,48+ mois,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Oui,Nord-Ouest,Femme,Oui,Élevée,Faible,1.696749,1.623446339170599,208,0.7395857690051995,1
+1,5,Féminin,15-19,Aucune,Moyen,Urbain,Premier-né,Moyen,1-3 visites,Établissement de santé,Non,Secondaire+,Oui,Sud,Homme,Non,Faible,Faible,0.454696,0.4350523009800005,378,0.4309481901306828,1
+1,3,Masculin,25-29,Primaire,Moyen,Rural,24-47 mois,NSP,0 visite,Établissement de santé,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.813757,0.7786012089144884,249,0.5908023602715942,1
+0,3,Féminin,25-29,Secondaire,Riche,Urbain,<24 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Est,Femme,Oui,Faible,Faible,0.627906,0.6007793121099552,117,0.4201437352557469,1
+0,1,Masculin,15-19,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Est,Femme,Non,Faible,Élevée,0.57784,0.5528762549006006,260,0.6332364820974437,1
+0,3,Masculin,15-19,Aucune,Pauvre,Rural,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.949356,1.865140254651833,452,0.40345509710682187,0
+1,3,Féminin,30-34,Secondaire,Pauvre,Rural,24-47 mois,Petit,1-3 visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Femme,Oui,Élevée,Élevée,0.556528,0.5324849722887329,334,0.19537683392633415,0
+1,2,Féminin,35-49,Aucune,Pauvre,Rural,24-47 mois,Grand,4+ visites,Domicile,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,1.703991,1.6303754715220982,216,0.3109913171065839,0
+1,4,Féminin,15-19,Secondaire,Moyen,Urbain,Premier-né,Petit,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Est,Femme,Non,Faible,Faible,0.62915,0.6019695690341839,206,0.23425449726485995,0
+1,4,Masculin,25-29,Primaire,Pauvre,Rural,48+ mois,Moyen,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Adamaoua,Homme,Oui,Élevée,Élevée,0.631676,0.6043864412131243,276,0.3102931306032807,0
+0,1,Masculin,20-24,Secondaire,Riche,Rural,24-47 mois,Grand,1-3 visites,Établissement de santé,Non,Secondaire+,Non,Centre (hors Yaoundé),Homme,Oui,Faible,Faible,0.890785,0.8523014583996115,392,0.6067725239725553,1
+0,1,Masculin,15-19,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Centre (hors Yaoundé),Femme,Non,Faible,Faible,0.938544,0.8979971822293875,387,0.6729070889052626,1
+1,5,Masculin,25-29,Primaire,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Secondaire+,Oui,Nord,Homme,Oui,Élevée,Élevée,3.676965,3.518113385367207,166,0.3307273562951107,0
+1,1,Féminin,15-19,Secondaire,Moyen,Urbain,Premier-né,Moyen,1-3 visites,Établissement de santé,Non,Pas en union,Oui,Est,Homme,Oui,Élevée,Faible,0.584368,0.5591222333582897,399,0.7042783100611486,1
+0,0,Féminin,15-19,Primaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Domicile,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Élevée,1.159071,1.1089970123977122,434,0.6662928525977,1
+0,0,Féminin,20-24,Primaire,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Nord,Homme,Non,Élevée,Élevée,3.676965,3.518113385367207,166,0.4629057965823069,1
+1,2,Féminin,20-24,Aucune,Moyen,Urbain,48+ mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Est,Homme,Oui,Faible,Élevée,0.718401,0.6873647625585738,324,0.560839610037641,1
+1,1,Féminin,20-24,Secondaire,Moyen,Rural,24-47 mois,Moyen,1-3 visites,Domicile,Non,Pas en union,Non,Sud,Homme,Oui,Élevée,Faible,0.490491,0.4693008914966954,435,0.5884373247563272,1
+0,5,Féminin,20-24,Primaire,Pauvre,Rural,<24 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Non,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.573656,1.5056711819567,337,0.2293063770498398,0
+1,1,Féminin,25-29,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Douala,Femme,Non,Faible,Faible,2.423145,2.3184607031031352,99,0.5974525110931937,1
+1,0,Féminin,30-34,Secondaire,Riche,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Ouest,Homme,Oui,Faible,Faible,1.096848,1.0494621598283502,67,0.4932363655056574,1
+1,1,Féminin,15-19,Primaire,Riche,Urbain,Premier-né,Grand,1-3 visites,Établissement de santé,Oui,Secondaire+,Oui,Ouest,Homme,Oui,Faible,Faible,1.019621,0.9755715075072776,185,0.6448776051958609,1
+0,3,Féminin,20-24,Primaire,Moyen,Rural,24-47 mois,Petit,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Extrême-Nord,Femme,Non,Élevée,Élevée,0.316112,0.3024553833053071,10,0.35436003221814816,0
+0,5,Masculin,20-24,Primaire,Pauvre,Rural,Premier-né,Moyen,4+ visites,Domicile,Non,Aucune/Primaire,Non,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.91982,1.8368802638849355,35,0.2062234236623534,0
+0,1,Féminin,25-29,Primaire,Moyen,Urbain,48+ mois,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Femme,Oui,Élevée,Faible,1.884455,1.803043096581599,381,0.591049628066278,1
+0,5,Masculin,30-34,Primaire,Moyen,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Non,Est,Homme,Oui,Élevée,Élevée,1.129755,1.080947517228347,159,0.36902699128006905,0
+1,2,Masculin,35-49,Secondaire,Moyen,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Sud,Femme,Oui,Faible,Faible,0.269198,0.2575681539296896,291,0.6279872641235813,1
+0,4,Féminin,25-29,Aucune,Moyen,Urbain,24-47 mois,Moyen,4+ visites,Domicile,Oui,Aucune/Primaire,Oui,Yaoundé,Homme,Oui,Faible,Élevée,1.682762,1.6100636031583906,52,0.2346936048159343,0
+0,4,Féminin,15-19,Secondaire,Riche,Urbain,Premier-né,Grand,1-3 visites,Établissement de santé,Non,Pas en union,Non,Sud-Ouest,Homme,Oui,Faible,Faible,0.669934,0.6409916256240117,330,0.44202620458014663,1
+0,4,Féminin,30-34,Primaire,Pauvre,Rural,48+ mois,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Oui,Ouest,Homme,Non,Élevée,Élevée,1.128715,1.0799524471309208,108,0.26070910263874797,0
+0,0,Féminin,15-19,Secondaire,Riche,Rural,Premier-né,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Homme,Non,Élevée,Faible,1.732073,1.657244277748941,199,0.6402081669560367,1
+0,4,Féminin,25-29,Primaire,Moyen,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord-Ouest,Homme,Oui,Élevée,Élevée,1.206393,1.154274615426935,224,0.47851251247181853,1
+0,0,Féminin,35-49,Aucune,Pauvre,Rural,24-47 mois,Petit,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.725362,1.6508232052260314,181,0.49157824697429814,1
+1,5,Féminin,30-34,Aucune,Riche,Urbain,<24 mois,Moyen,1-3 visites,Domicile,Non,Secondaire+,Oui,Nord,Homme,Non,Faible,Élevée,1.320395,1.2633515204718926,176,0.3810933473990412,0
+0,0,Masculin,30-34,Primaire,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Non,Sud,Femme,Oui,Élevée,Élevée,0.311475,0.298018710188226,257,0.6692379931608023,1
+0,0,Masculin,30-34,Aucune,Pauvre,Rural,24-47 mois,Grand,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.725362,1.6508232052260314,181,0.33320190637142205,0
+0,1,Masculin,30-34,Aucune,Pauvre,Rural,48+ mois,Petit,4+ visites,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.551025,1.4840178825578083,278,0.21501726055613984,0
+1,0,Masculin,25-29,Primaire,Moyen,Rural,<24 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Homme,Oui,Élevée,Faible,1.608277,1.5387964914211083,102,0.7582196923542679,1
+1,3,Masculin,25-29,Primaire,Pauvre,Rural,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Centre (hors Yaoundé),Homme,Oui,Élevée,Élevée,2.416233,2.311847314147935,41,0.31785545922374087,0
+0,1,Masculin,25-29,Aucune,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.725362,1.6508232052260314,181,0.591586726869653,1
+0,4,Féminin,25-29,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Non,Littoral (hors Douala),Homme,Oui,Faible,Faible,0.77514,0.741652533960355,424,0.3628662798885014,0
+0,5,Féminin,25-29,Primaire,Pauvre,Urbain,<24 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Est,Homme,Non,Élevée,Élevée,0.589111,0.5636603270814546,231,0.294614994785736,0
+1,2,Masculin,35-49,Aucune,Moyen,Urbain,24-47 mois,Moyen,1-3 visites,Domicile,Non,Secondaire+,Non,Extrême-Nord,Homme,Non,Élevée,Élevée,0.990064,0.9472914239787972,1,0.6154379687075362,1
+0,4,Masculin,15-19,Aucune,Pauvre,Rural,Premier-né,Petit,1-3 visites,Établissement de santé,Non,Pas en union,Oui,Est,Femme,Non,Élevée,Élevée,0.88045,0.8424129493064408,228,0.3070878438695538,0
+0,3,Masculin,20-24,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Douala,Homme,Non,Faible,Faible,1.205966,1.153866062608088,250,0.4341709158307305,1
+0,2,Masculin,25-29,Aucune,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Extrême-Nord,Femme,Oui,Élevée,Élevée,1.619189,1.5492370730587162,212,0.42003873332508973,1
+0,1,Masculin,15-19,Aucune,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Domicile,Non,Aucune/Primaire,Non,Est,Homme,Non,Élevée,Élevée,1.597822,1.5287931665474654,327,0.42924722899587847,1
+0,4,Masculin,20-24,Primaire,Moyen,Urbain,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Adamaoua,Femme,Oui,Faible,Élevée,0.797341,0.7628944101458877,397,0.3282908244508899,0
+0,5,Masculin,15-19,Secondaire,Pauvre,Rural,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,2.211454,2.1159151415702486,271,0.21291295954817968,0
+1,1,Masculin,25-29,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Ouest,Homme,Oui,Faible,Faible,0.518317,0.4959247573918638,160,0.4997031945246029,1
+0,5,Féminin,20-24,Secondaire,Moyen,Rural,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Pas en union,Non,Ouest,Femme,Oui,Élevée,Élevée,0.856547,0.8195426026345436,114,0.22721556636237614,0
+0,2,Masculin,25-29,Aucune,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Non,Adamaoua,Femme,Non,Élevée,Élevée,0.403198,0.3857791087903439,269,0.3222040189919446,0
+0,2,Masculin,25-29,Supérieur,Moyen,Urbain,24-47 mois,Petit,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Littoral (hors Douala),Homme,Oui,Faible,Faible,0.37817,0.3618323641765196,109,0.19616347309251017,0
+1,3,Masculin,25-29,Aucune,Moyen,Urbain,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Non,Adamaoua,Homme,Oui,Faible,Élevée,0.53335,0.5103083042905222,386,0.5726594265022904,1
+0,2,Masculin,25-29,Aucune,Pauvre,Rural,Premier-né,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,0.773617,0.7401953303465283,316,0.36302987882869286,0
+0,2,Féminin,35-49,Secondaire,Riche,Urbain,48+ mois,Grand,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Nord,Homme,Oui,Faible,Élevée,0.762259,0.7293280167248319,398,0.3681054278199647,0
+1,0,Masculin,20-24,Secondaire,Riche,Urbain,48+ mois,Grand,1-3 visites,Domicile,Non,Secondaire+,Non,Adamaoua,Homme,Oui,Élevée,Faible,0.912928,0.8734878402912493,286,0.5095245392522424,1
+1,5,Féminin,35-49,Aucune,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,1.195687,1.1440311342124712,315,0.3630623019576505,0
+1,0,Masculin,20-24,Secondaire,Riche,Rural,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Pas en union,Non,Nord-Ouest,Homme,Non,Élevée,Élevée,0.33693,0.3223740076208974,205,0.624587860487838,1
+0,1,Féminin,25-29,Primaire,Moyen,Rural,48+ mois,Grand,0 visite,Domicile,Oui,Pas en union,Oui,Nord,Homme,Oui,Élevée,Élevée,1.117141,1.0688784651043746,468,0.40980288392079595,1
+0,1,Féminin,20-24,Aucune,Moyen,Rural,<24 mois,Petit,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Est,Homme,Non,Élevée,Élevée,0.542541,0.5191022362765242,64,0.46752614698591954,1
+1,2,Masculin,15-19,Secondaire,Riche,Urbain,<24 mois,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Oui,Yaoundé,Homme,Oui,Faible,Faible,1.92778,1.8444963773229264,82,0.5551153540261539,1
+1,0,Féminin,30-34,Secondaire,Pauvre,Rural,48+ mois,Moyen,1-3 visites,Établissement de santé,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Oui,Élevée,Faible,0.662675,0.6340462277036126,248,0.4828279137057503,1
+1,0,Féminin,30-34,Primaire,Moyen,Rural,24-47 mois,Petit,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Est,Homme,Oui,Élevée,Élevée,0.802803,0.7681204417537153,183,0.5894549674000743,1
+0,2,Féminin,30-34,Secondaire,Pauvre,Rural,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Ouest,Homme,Oui,Élevée,Faible,0.360324,0.3447573440239581,339,0.2162881877939516,0
+0,1,Féminin,20-24,Primaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Non,Sud,Homme,Oui,Faible,Faible,0.327058,0.3129284960807155,13,0.656635719884955,1
+0,0,Féminin,30-34,Aucune,Pauvre,Rural,24-47 mois,Petit,4+ visites,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,0.988684,0.9459710425033666,14,0.2762743338948884,0
+1,2,Masculin,25-29,Secondaire,Riche,Urbain,Premier-né,Petit,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Nord-Ouest,Homme,Oui,Faible,Élevée,1.314919,1.2581120936896768,256,0.3902696375578364,0
+0,1,Féminin,35-49,Aucune,Pauvre,Rural,48+ mois,Petit,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,0.942769,0.9020396545001804,87,0.285453801444646,0
+0,4,Féminin,25-29,Primaire,Moyen,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Littoral (hors Douala),Femme,Oui,Élevée,Élevée,2.29079,2.191823681233121,384,0.4470548659991506,1
+0,2,Féminin,20-24,Aucune,Pauvre,Rural,24-47 mois,Petit,4+ visites,Domicile,Non,Secondaire+,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,0.453584,0.4339883414142911,135,0.16860840168760302,0
+0,1,Masculin,20-24,Primaire,Pauvre,Rural,24-47 mois,Petit,4+ visites,Domicile,Non,Secondaire+,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,2.031763,1.943987121496624,323,0.27243324322196144,0
+0,1,Masculin,30-34,Primaire,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord-Ouest,Homme,Non,Élevée,Élevée,1.454045,1.3912275959728362,43,0.6006409223944341,1
+1,2,Féminin,15-19,Primaire,Pauvre,Rural,Premier-né,Grand,1-3 visites,Domicile,Non,Pas en union,Oui,Est,Femme,Non,Élevée,Élevée,0.802803,0.7681204417537153,183,0.44108592426616244,1
+0,0,Masculin,20-24,Aucune,Pauvre,Rural,Premier-né,Moyen,0 visite,Établissement de santé,Non,Pas en union,Oui,Nord,Homme,Non,Élevée,Élevée,0.025295,0.024202209725375,203,0.5724623257049216,1
+0,2,Féminin,15-19,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Douala,Homme,Non,Faible,Élevée,1.419785,1.3584476906480154,50,0.5808799705653638,1
+0,3,Masculin,15-19,Primaire,Moyen,Rural,Premier-né,Moyen,4+ visites,Domicile,Non,Aucune/Primaire,Non,Adamaoua,Homme,Oui,Élevée,Élevée,0.491616,0.4703772894386225,79,0.5431664908860688,1
+0,3,Féminin,30-34,Aucune,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.672018,1.5997837636134435,423,0.21094082832072183,0
+0,1,Féminin,25-29,Primaire,Moyen,Urbain,24-47 mois,Petit,4+ visites,Domicile,Non,Secondaire+,Non,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.022558,0.9783816237343352,443,0.3887391592372784,0
+0,4,Masculin,15-19,Secondaire,Moyen,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Douala,Femme,Oui,Faible,Faible,1.216346,1.163797627618936,292,0.42062091978378585,1
+0,2,Masculin,25-29,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Domicile,Oui,Secondaire+,Non,Douala,Homme,Oui,Faible,Faible,0.993244,0.9503340421613112,153,0.3684759197331065,0
+1,2,Masculin,15-19,Primaire,Pauvre,Rural,<24 mois,Grand,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Adamaoua,Homme,Non,Élevée,Élevée,0.977373,0.9351486983956886,344,0.6103183810813425,1
+0,2,Masculin,35-49,Primaire,Pauvre,Rural,48+ mois,Grand,0 visite,Domicile,Non,Aucune/Primaire,Oui,Est,Homme,Non,Élevée,Faible,0.499977,0.478377078943025,403,0.3385825057888941,0
+1,2,Masculin,30-34,Primaire,Pauvre,Rural,24-47 mois,Grand,1-3 visites,Domicile,Non,Aucune/Primaire,Oui,Est,Homme,Non,Élevée,Élevée,0.88045,0.8424129493064408,228,0.3508890513797639,0
+0,0,Masculin,30-34,Aucune,Pauvre,Rural,48+ mois,Moyen,0 visite,Domicile,Non,Pas en union,Oui,Nord,Femme,Non,Élevée,Élevée,1.445452,1.3830058292928542,134,0.40208675084577705,0
+1,0,Féminin,20-24,Primaire,Pauvre,Rural,24-47 mois,NSP,0 visite,Domicile,Oui,Secondaire+,Non,Centre (hors Yaoundé),Femme,Non,Élevée,Faible,0.874642,0.836855865531585,140,0.41408502354384363,1
+1,1,Féminin,25-29,Secondaire,Moyen,Urbain,<24 mois,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Littoral (hors Douala),Femme,Oui,Élevée,Faible,0.449229,0.4298214853813198,120,0.6181987881999051,1
+0,4,Féminin,20-24,Secondaire,Riche,Urbain,Premier-né,Moyen,1-3 visites,Domicile,Non,Pas en union,Non,Sud,Homme,Oui,Faible,Faible,0.4525,0.4329511721973587,255,0.3888709404662638,0
+0,1,Masculin,15-19,Secondaire,Riche,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Non,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.322858,1.265708114366085,18,0.5151029659702833,1
+0,3,Masculin,25-29,Primaire,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Oui,Nord,Homme,Oui,Élevée,Élevée,3.676965,3.518113385367207,166,0.49888844923391,1
+0,3,Féminin,20-24,Secondaire,Moyen,Rural,Premier-né,NSP,4+ visites,Domicile,Non,Pas en union,Non,Centre (hors Yaoundé),Femme,Oui,Élevée,Élevée,0.76681,0.7336824051992411,396,0.4288344541926438,1
+1,5,Féminin,20-24,Aucune,Pauvre,Urbain,<24 mois,Moyen,1-3 visites,Établissement de santé,Oui,Secondaire+,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.004925,0.961510401592112,169,0.22550389549038646,0
+0,1,Masculin,25-29,Primaire,Pauvre,Rural,<24 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.619189,1.5492370730587162,212,0.647092499254903,1
+0,4,Masculin,20-24,Secondaire,Riche,Urbain,Premier-né,Petit,1-3 visites,Établissement de santé,Oui,Secondaire+,Non,Douala,Homme,Oui,Faible,Faible,1.125334,1.076717512516116,283,0.2545079588734466,0
+1,4,Masculin,30-34,Primaire,Riche,Urbain,48+ mois,Petit,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Douala,Homme,Oui,Faible,Faible,2.423145,2.3184607031031352,99,0.20395133927030157,0
+0,1,Masculin,35-49,Aucune,Pauvre,Rural,48+ mois,NSP,0 visite,Domicile,Non,Aucune/Primaire,Non,Nord,Homme,Non,Élevée,Élevée,0.892567,0.854006472739624,46,0.4985016418573169,1
+0,5,Masculin,20-24,Secondaire,Moyen,Rural,<24 mois,Moyen,1-3 visites,Établissement de santé,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Élevée,0.804317,0.7695690341840065,235,0.4681165450457274,1
+0,3,Féminin,30-34,Aucune,Pauvre,Rural,24-47 mois,Petit,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,0.453584,0.4339883414142911,135,0.12899521123003685,0
+1,1,Masculin,20-24,Primaire,Pauvre,Urbain,24-47 mois,Moyen,0 visite,Domicile,Non,Secondaire+,Non,Sud,Homme,Non,Faible,Faible,0.4525,0.4329511721973587,255,0.34449794111338006,0
+1,3,Masculin,25-29,Primaire,Riche,Urbain,24-47 mois,Petit,4+ visites,Établissement de santé,Non,Secondaire+,Non,Sud,Homme,Oui,Faible,Faible,0.327058,0.3129284960807155,13,0.39372736985347384,0
+1,1,Masculin,20-24,Secondaire,Riche,Rural,24-47 mois,Moyen,0 visite,Établissement de santé,Non,Aucune/Primaire,Non,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.952874,0.9117081000141126,374,0.6106601267161568,1
+0,5,Masculin,15-19,Secondaire,Riche,Urbain,24-47 mois,Grand,1-3 visites,Domicile,Oui,Pas en union,Oui,Centre (hors Yaoundé),Homme,Oui,Faible,Faible,0.767239,0.7340928716144294,223,0.22488850513410724,0
+1,3,Féminin,30-34,Primaire,Pauvre,Rural,48+ mois,Moyen,1-3 visites,Établissement de santé,Non,Aucune/Primaire,Non,Adamaoua,Homme,Non,Élevée,Élevée,0.561933,0.5376564664008362,45,0.39720201424723656,0
+0,3,Féminin,35-49,Aucune,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.949356,1.865140254651833,452,0.3253190835152353,0
+0,0,Masculin,15-19,Secondaire,Pauvre,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Est,Homme,Oui,Élevée,Faible,0.584368,0.5591222333582897,399,0.538979232741694,1
+1,5,Féminin,30-34,Primaire,Moyen,Urbain,48+ mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Littoral (hors Douala),Femme,Oui,Faible,Faible,0.374611,0.3584271194873475,453,0.20401335962241698,0
+1,1,Féminin,25-29,Secondaire,Riche,Urbain,48+ mois,Petit,4+ visites,Établissement de santé,Non,Secondaire+,Non,Nord-Ouest,Femme,Oui,Faible,Élevée,1.293631,1.2377437742339037,226,0.3764423998565717,0
+1,0,Masculin,20-24,Secondaire,Moyen,Urbain,24-47 mois,NSP,1-3 visites,Domicile,Non,Pas en union,Oui,Centre (hors Yaoundé),Femme,Non,Faible,Faible,0.767239,0.7340928716144294,223,0.6857900986175514,1
+0,4,Féminin,20-24,Primaire,Pauvre,Rural,48+ mois,Grand,4+ visites,Domicile,Non,Aucune/Primaire,Oui,Est,Homme,Non,Élevée,Élevée,0.604481,0.5783663149636057,27,0.14566687819763144,0
+1,4,Masculin,30-34,Secondaire,Riche,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Douala,Femme,Oui,Faible,Faible,0.956322,0.915007140106348,461,0.246921033914588,0
+0,5,Féminin,35-49,Aucune,Pauvre,Rural,48+ mois,Moyen,1-3 visites,Domicile,Oui,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,2.170425,2.076658669428624,59,0.20117276337942536,0
+1,4,Féminin,20-24,Supérieur,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Oui,Nord,Homme,Oui,Élevée,Élevée,0.97697,0.934763108732936,332,0.20598697339387792,0
+0,4,Féminin,20-24,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,NSP,Non,Centre (hors Yaoundé),Homme,Oui,Élevée,Élevée,0.61473,0.5881725394141045,155,0.3886946239447655,0
+0,5,Féminin,25-29,Primaire,Riche,Urbain,<24 mois,Moyen,4+ visites,Établissement de santé,Non,Aucune/Primaire,Non,Extrême-Nord,Homme,Oui,Élevée,Élevée,0.968825,0.9269699876333836,439,0.4971647797327565,1
+1,0,Masculin,25-29,Secondaire,Riche,Urbain,Premier-né,Petit,4+ visites,Établissement de santé,Oui,Pas en union,Non,Est,Homme,Oui,Faible,Élevée,0.719802,0.6887052367955872,418,0.5007703694637077,1
+0,3,Masculin,30-34,Primaire,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Domicile,Non,Aucune/Primaire,Oui,Est,Homme,Non,Élevée,Élevée,0.401266,0.3839305747247411,284,0.27976716147007324,0
+0,4,Masculin,30-34,Aucune,Pauvre,Rural,48+ mois,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Adamaoua,Homme,Oui,Élevée,Élevée,0.261682,0.2503768588794458,409,0.1689900642305056,0
+0,2,Masculin,30-34,Primaire,Riche,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Aucune/Primaire,Oui,Ouest,Homme,Oui,Faible,Faible,1.017177,0.9732330927783264,367,0.5048744115766036,1
+0,3,Masculin,35-49,Aucune,Pauvre,Rural,24-47 mois,Grand,1-3 visites,Domicile,Non,Aucune/Primaire,Non,Adamaoua,Homme,Non,Élevée,Élevée,1.34955,1.291246971135791,171,0.35498855968885734,0
+1,0,Masculin,15-19,Primaire,Moyen,Urbain,Premier-né,NSP,4+ visites,Domicile,Non,Aucune/Primaire,Non,Sud,Homme,Non,Faible,Élevée,0.247237,0.2365559093051014,462,0.74855771794393,1
+0,3,Féminin,25-29,Aucune,Moyen,Urbain,<24 mois,Moyen,1-3 visites,Domicile,Non,Aucune/Primaire,Non,Nord,Homme,Oui,Élevée,Élevée,1.197249,1.1455256529549511,201,0.5607956679208866,1
+0,3,Féminin,30-34,Primaire,Pauvre,Rural,24-47 mois,NSP,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.883909,0.8457225141785527,113,0.36247643798442974,0
+0,4,Masculin,15-19,Primaire,Riche,Urbain,Premier-né,Moyen,1-3 visites,Établissement de santé,Non,Pas en union,Non,Sud,Homme,Oui,Faible,Faible,0.895424,0.8567400451130336,194,0.6597628746968061,1
+1,0,Masculin,20-24,Primaire,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Est,Homme,Non,Élevée,Faible,0.79279,0.7585400216714785,298,0.4887773453436653,1
+1,3,Féminin,25-29,Secondaire,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Douala,Homme,Oui,Faible,Faible,1.216346,1.163797627618936,292,0.3612988678673086,0
+0,3,Féminin,25-29,Aucune,Moyen,Urbain,24-47 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,0.990064,0.9472914239787972,1,0.33802610597782906,0
+0,3,Masculin,20-24,Primaire,Riche,Urbain,Premier-né,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Femme,Non,Faible,Faible,1.536406,1.4700304501017791,75,0.45180886080027477,1
+0,3,Masculin,30-34,Aucune,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Non,Nord,Homme,Non,Élevée,Élevée,1.330409,1.2729328973523002,469,0.227779556357161,0
+1,2,Féminin,25-29,Secondaire,Moyen,Rural,24-47 mois,Moyen,4+ visites,Domicile,Non,Secondaire+,Oui,Est,Homme,Non,Élevée,Élevée,0.802803,0.7681204417537153,183,0.4017469867313587,0
+0,2,Féminin,15-19,Primaire,Moyen,Rural,Premier-né,Petit,4+ visites,Domicile,Non,Secondaire+,Non,Centre (hors Yaoundé),Homme,Oui,Élevée,Faible,0.866557,0.8291201523222687,274,0.41908720686154677,1
+1,1,Masculin,20-24,Secondaire,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Nord-Ouest,Femme,Non,Élevée,Faible,0.559331,0.5351668775609301,365,0.386547843331438,0
+1,0,Masculin,25-29,Secondaire,Moyen,Rural,24-47 mois,Moyen,1-3 visites,Établissement de santé,Non,Pas en union,Non,Littoral (hors Douala),Femme,Non,Faible,Faible,0.532105,0.5091170905681227,261,0.7736733006257375,1
+0,3,Masculin,25-29,Primaire,Moyen,Urbain,24-47 mois,Grand,1-3 visites,Domicile,Non,Secondaire+,Oui,Extrême-Nord,Homme,Oui,Élevée,Élevée,1.322858,1.265708114366085,18,0.4199534730286048,1
+1,2,Féminin,25-29,Secondaire,Riche,Urbain,<24 mois,Moyen,4+ visites,Établissement de santé,Oui,Aucune/Primaire,Oui,Sud-Ouest,Homme,Oui,Faible,Faible,0.575639,0.5507703421271057,70,0.5312438869546605,1
+1,1,Féminin,20-24,Secondaire,Moyen,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Littoral (hors Douala),Femme,Oui,Faible,Élevée,0.646013,0.6181040565850437,265,0.5630240504070328,1
+0,5,Masculin,30-34,Supérieur,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Adamaoua,Homme,Oui,Faible,Élevée,0.455493,0.4358148691219701,312,0.1495031893342054,0
+1,2,Féminin,30-34,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Oui,Douala,Femme,Oui,Faible,Faible,2.716981,2.5996024503601145,445,0.43595254834622355,1
+1,2,Masculin,35-49,Secondaire,Riche,Urbain,24-47 mois,Moyen,4+ visites,Établissement de santé,Oui,Secondaire+,Oui,Yaoundé,Homme,Non,Faible,Faible,1.774241,1.6975905430068814,179,0.5135895239100455,1
+1,0,Masculin,15-19,Secondaire,Pauvre,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Est,Homme,Non,Élevée,Élevée,0.589111,0.5636603270814546,231,0.538979232741694,1
+0,2,Masculin,15-19,Secondaire,Riche,Urbain,<24 mois,Grand,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Homme,Oui,Faible,Faible,1.50385,1.4388809288596638,227,0.5443545027097311,1
+1,0,Masculin,20-24,Primaire,Moyen,Urbain,48+ mois,Moyen,1-3 visites,Établissement de santé,Non,Pas en union,Non,Littoral (hors Douala),Femme,Non,Faible,Faible,0.757493,0.7247679166437433,429,0.772481839858943,1
+1,5,Masculin,15-19,Secondaire,Pauvre,Rural,Premier-né,Moyen,4+ visites,Domicile,Non,Secondaire+,Oui,Nord,Homme,Oui,Élevée,Élevée,1.070655,1.0244007453457746,302,0.1582294623359292,0
+0,0,Féminin,25-29,Primaire,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Extrême-Nord,Homme,Non,Élevée,Élevée,1.672018,1.5997837636134435,423,0.49235284971517246,1
+0,5,Féminin,25-29,Primaire,Moyen,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Oui,Nord,Homme,Non,Élevée,Élevée,1.309411,1.2528420493660015,351,0.3092443888693017,0
+0,5,Féminin,35-49,Primaire,Pauvre,Rural,<24 mois,Moyen,4+ visites,Établissement de santé,Non,Pas en union,Non,Centre (hors Yaoundé),Homme,Oui,Élevée,Élevée,1.23509,1.1817318525286975,341,0.43576963805319546,1
+1,0,Masculin,30-34,Aucune,Pauvre,Rural,24-47 mois,Moyen,1-3 visites,Domicile,Non,Secondaire+,Oui,Nord-Ouest,Homme,Non,Élevée,Élevée,1.409067,1.3481927278555044,266,0.503814626989467,1
+1,0,Féminin,20-24,Secondaire,Riche,Rural,<24 mois,Grand,4+ visites,Établissement de santé,Oui,Secondaire+,Non,Nord,Homme,Oui,Élevée,Élevée,0.025295,0.024202209725375,203,0.5818407545644524,1
+1,2,Masculin,15-19,Secondaire,Moyen,Rural,Premier-né,Moyen,4+ visites,Établissement de santé,Non,Secondaire+,Non,Ouest,Homme,Oui,Élevée,Élevée,1.128715,1.0799524471309208,108,0.5725629848510677,1
+1,4,Féminin,20-24,Supérieur,Riche,Urbain,Premier-né,Moyen,4+ visites,Établissement de santé,Oui,Pas en union,Oui,Nord-Ouest,Homme,Oui,Faible,Faible,1.061319,1.0154680776250355,8,0.23612359973069763,0
+0,4,Masculin,30-34,Primaire,Moyen,Urbain,48+ mois,Grand,1-3 visites,Établissement de santé,Non,Secondaire+,Oui,Centre (hors Yaoundé),Homme,Non,Faible,Faible,0.741235,0.7092122919860976,385,0.3612640707429331,0
+0,1,Masculin,30-34,Aucune,Moyen,Urbain,48+ mois,Petit,0 visite,Domicile,Non,Aucune/Primaire,Non,Adamaoua,Homme,Oui,Faible,Élevée,0.733895,0.7021893934138796,425,0.3022524315945042,0
+0,4,Féminin,20-24,Primaire,Riche,Rural,24-47 mois,Petit,1-3 visites,Établissement de santé,Non,Pas en union,Non,Centre (hors Yaoundé),Homme,Non,Élevée,Faible,0.952874,0.9117081000141126,374,0.4568618421073512,1
+0,4,Masculin,25-29,Aucune,Pauvre,Rural,24-47 mois,Moyen,0 visite,Domicile,Non,Aucune/Primaire,Non,Adamaoua,Homme,Oui,Élevée,Élevée,0.300702,0.2877111234963319,405,0.20802525814438652,0
+1,0,Féminin,30-34,Secondaire,Riche,Rural,24-47 mois,Petit,1-3 visites,Établissement de santé,Non,Secondaire+,Non,Sud,Homme,Oui,Élevée,Faible,0.739908,0.707942620813709,15,0.58324343811096,1
+0,0,Masculin,20-24,Aucune,Pauvre,Rural,<24 mois,Moyen,1-3 visites,Domicile,Non,Aucune/Primaire,Non,Extrême-Nord,Homme,Non,Élevée,Élevée,1.430808,1.36899447688256,466,0.6466869453722529,1
+1,4,Féminin,25-29,Secondaire,Pauvre,Rural,24-47 mois,Moyen,4+ visites,Domicile,Non,Pas en union,Oui,Nord,Femme,Oui,Élevée,Élevée,0.899497,0.8606370840618952,377,0.17856181860638823,0
+0,4,Masculin,25-29,Primaire,Moyen,Urbain,24-47 mois,Moyen,0 visite,Domicile,Non,Pas en union,Oui,Est,Homme,Non,Faible,Élevée,0.718401,0.6873647625585738,324,0.36929265022080837,0
